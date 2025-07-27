@@ -99,11 +99,22 @@ While archival to Azure Blob Storage may provide marginally lower long-term stor
 
 **This Synapse Link-based strategy avoids all of the above while remaining cost-effective and API-safe.**
 
+---
+## 🧭 Architecture Overview
 
+<p align="center">
+  <img src="architecture/solution-diagram.png" alt="Architecture Diagram" width="700">
+</p>
 
-## 🧠 AI Collaboration Log
+---
 
-[📓 Thought Process with ChatGPT →] (https://chatgpt.com/share/6885d4be-d65c-800f-beaa-abd23f677387)  
+## 📚 References
+
+📓 Thought Process with ChatGPT → https://chatgpt.com/share/6885d4be-d65c-800f-beaa-abd23f677387
+
+🔗 These official Microsoft resources validate the approach and configuration used:
+- https://learn.microsoft.com/en-us/answers/questions/2073192/cosmos-db-in-synapse
+- https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/how-to-time-to-live
 
 
 
