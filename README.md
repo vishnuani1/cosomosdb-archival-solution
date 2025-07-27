@@ -97,6 +97,12 @@ While archival to Azure Blob Storage may provide marginally lower long-term stor
 - ❌ Adds routing logic and maintenance complexity  
 - ❌ Introduces latency and possible data duplication issues  
 
+
+## 🧠 AI Collaboration Log
+
+[📓 Thought Process with ChatGPT →] (https://chatgpt.com/share/6885d4be-d65c-800f-beaa-abd23f677387)  
+
+
 **This Synapse Link-based strategy avoids all of the above while remaining cost-effective and API-safe.**
 
 
